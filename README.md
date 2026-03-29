@@ -1,36 +1,31 @@
-<h2 align="center">👋 Hello! I'm Karim Mashaly</h2>
-<p align="center">
-  <a href="https://blog.athulcyriac.in">Blog</a> •
-  <a href="https://twitter.com/athulcajay">Twitter</a>
-</p>
+# 👋 أهلاً بك! أنا [اكريم مشالي] 
+### 🏛️ Financial Accountant | 💻 Aspiring Software Engineer
 
+خريج محاسبة من **جامعة المنصورة (2024)**. أجمع بين الخبرة المحاسبية المهنية والتأسيس البرمجي المتين.
 
-- 🔭 I’m currently working at [KnowBe4](https://knowbe4.com) as an SRE
-- 💬 Ask me about **Go, Git and Python**
-- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+---
 
--------
+## 🎓 المؤهلات والشهادات (Qualifications)
+* **بكالوريوس التجارة - قسم محاسبة** | جامعة المنصورة (2024).
+* **المحاسب المالي المحترف (PFA):** متخصص في المحاسبة المالية، الضرائب، والمراجعة.
+* **خارطة طريق أبو هدهود (CS Pathway):** بناء عقلية المبرمج والأساسيات العميقة.
 
-**📝 Latest Blog Posts**
+## 🛠️ المهارات التقنية والمحاسبية (Tech Stack)
+| المجال | المهارات |
+| :--- | :--- |
+| **المحاسبة (Finance)** | PFA Standards, Financial Reporting, Audit, Taxation. |
+| **البرمجة (Logic)** | C++, Algorithms, Problem Solving (Level 1 & 2). |
+| **قواعد البيانات** | SQL Server (Coming Soon 🚧), Excel Advanced. |
+| **المنطق (Logic)** | OOP Concepts, Data Structures (Learning). |
 
-<!-- BLOG-POST-LIST:START -->
-- [Yearly Review - 2025](https://blog.athulcyriac.in/blog/2025/)
-- [Hacking with Knives and Spoons](https://blog.athulcyriac.in/blog/cooking/)
-- [Yearly Review 2024](https://blog.athulcyriac.in/blog/2024/)
-- [Python + Nix Flakes + Containers](https://blog.athulcyriac.in/blog/docker-nix-python/)
-- [Yearly Review 2023](https://blog.athulcyriac.in/blog/2023/)
-<!-- BLOG-POST-LIST:END -->
+## 🚀 رحلة التعلم الحالية (Learning Path)
+- [x] **تأسيس البرمجة ومنطق الـ Logic** (C++).
+- [x] **خوارزميات وحل المشكلات - المستوى الأول والثاني.**
+- [ ] **Data Structures & C# Mastery** (جاري العمل عليها 🚧).
+- [ ] **Database Connectivity (ADO.NET)** (الخطوة القادمة لإدارة البيانات المالية 🎯).
 
--------
+---
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
--------
+## 📫 تواصل معي (Let's Connect)
+* [LinkedIn](رابط_حسابك_على_لينكدإن)
+* [Email](ايميلك@example.com)
